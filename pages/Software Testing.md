@@ -107,4 +107,7 @@
 			- review requirements, design, user manuals
 			- coding review --> white box testing
 			- Early testing save time and money
-		- Retesting (Co)
+		- Retesting (Confirmation Testing)
+			- assure defects are fixed
+		- Regression Testing
+			- Testing unchanged
