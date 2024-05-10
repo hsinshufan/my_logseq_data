@@ -94,4 +94,5 @@
 			- Component Integration --> Developer
 			- System Integration --> Tester
 		- System Testing --> Tester
-		-
+		- Acceptance --> User or Stake holder
+			- Alpha version: Test
