@@ -84,6 +84,7 @@
 			- Alpha testing: Test in developer's environment
 			- Beta testing: Test in user's environment
 	- Testing Types
+	  collapsed:: true
 		- Functional Testing
 		  collapsed:: true
 			- Testing what the system does
@@ -113,3 +114,4 @@
 			- Testing unchanged areas to ensure they are affected by changes
 		- Smoke Testing
 			- Testing main functionalities to ensure that the build is stable enough to continue testing
+			- ![image.png](../assets/image_1715312910420_0.png)
