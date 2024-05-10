@@ -112,4 +112,4 @@
 		- Regression Testing
 			- Testing unchanged areas to ensure they are affected by changes
 		- Smoke Testing
-			- Testing main functionalities to ensure that the build is stable enough
+			- Testing main functionalities to ensure that the build is stable enough to continue testing
