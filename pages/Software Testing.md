@@ -68,4 +68,4 @@
 		- ![image.png](../assets/image_1715309743408_0.png)
 		- ![image.png](../assets/image_1715309791866_0.png)
 	- Objectives of Testing
-		-
+		- ![image.png](../assets/image_1715310148716_0.png)
