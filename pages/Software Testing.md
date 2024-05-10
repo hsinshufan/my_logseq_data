@@ -78,5 +78,5 @@
 		- Test process Activities
 			- Test Monitoring & Control --> Test progress report
 			- Test Analysis --> Identify test scenarios by assemble sentenses
-				- Identify what are we goin
+				- Identify what are we going to test
 			- ![image.png](../assets/image_1715310890202_0.png)
