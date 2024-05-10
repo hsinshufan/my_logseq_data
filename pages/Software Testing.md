@@ -110,4 +110,6 @@
 		- Retesting (Confirmation Testing)
 			- assure defects are fixed
 		- Regression Testing
-			- Testing unchanged
+			- Testing unchanged areas to ensure they are affected by changes
+		- Smoke Testing
+			- Testing main functionalities to ensure that the build is stable enough
