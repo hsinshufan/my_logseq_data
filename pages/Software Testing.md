@@ -83,6 +83,7 @@
 				- Identify what are we going to test
 			- ![image.png](../assets/image_1715310890202_0.png)
 	- Test Levels
+	  collapsed:: true
 		- Groups of test activities that are organized and managed together
 		- Each test level is an instance of the test process
 		- Related to other activities within the software development lifecycle
@@ -96,5 +97,5 @@
 		- System Testing --> Tester
 			- ![image.png](../assets/image_1715312302820_0.png){:height 291, :width 689}
 		- Acceptance --> User or Stake holder
-			- Alpha testing: Test in developer's enviroment
-			- Beta testing: Test in user's enviroment
+			- Alpha testing: Test in developer's environment
+			- Beta testing: Test in user's environment
