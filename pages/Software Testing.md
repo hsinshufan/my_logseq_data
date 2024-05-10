@@ -98,5 +98,7 @@
 			- Hard to answer with Yes/No
 			- Usually measured as a range
 		- Black -Box Testing
-			- Testing without knowi
+			- Testing without knowing the internal structure of the system
+		- White-Box Testing
+			- Testing while monitoring the internal structure of the system
 			-
