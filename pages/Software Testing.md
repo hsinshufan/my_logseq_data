@@ -126,3 +126,5 @@
 		- Analyze and frame possible system abuse scenarios
 		- Enumerate test scenarios that cover every possible feature of the software
 		- Create a Traceability Matrix to ensure that every requirement is mapped to a test scenario
+		- Facebook Valid Sign Up Test
+			- ![image.png](../assets/image_1715334059530_0.png)
