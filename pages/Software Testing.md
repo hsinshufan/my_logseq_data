@@ -123,3 +123,5 @@
 			- Business Requirement Specification, BRS
 			- Software Requirement Specification, SRS
 			- Functional Requirement Specification, FRS
+		- Analyze and frame possible system abuse scenarios
+		- Enumerate test scenarios that
