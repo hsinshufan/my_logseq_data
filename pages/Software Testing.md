@@ -77,5 +77,5 @@
 			- ![image.png](../assets/image_1715310843676_0.png)
 		- Test process Activities
 			- Test Monitoring & Control --> Test progress report
-			- Test Analysis --> Identify test scenarios
+			- Test Analysis --> Identify test scenarios by assemble sentiens
 			- ![image.png](../assets/image_1715310890202_0.png)
