@@ -85,5 +85,6 @@
 	- Test Levels
 		- Groups of test activities that are organized and managed together
 		- Each test level is an instance of the test process
-		- Related to other activities
+		- Related to other activities within the software development lifecycle
+		- ![image.png](../assets/image_1715311933234_0.png)
 		-
