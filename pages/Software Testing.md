@@ -71,8 +71,10 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1715310148716_0.png)
 	- Testing & Debugging
+	  collapsed:: true
 		- ![image.png](../assets/image_1715310490590_0.png)
 	- Test process
+	  collapsed:: true
 		- Plan --> Design --> Execution
 			- ![image.png](../assets/image_1715310843676_0.png)
 		- Test process Activities
@@ -80,3 +82,5 @@
 			- Test Analysis --> Identify test scenarios by assemble sentenses
 				- Identify what are we going to test
 			- ![image.png](../assets/image_1715310890202_0.png)
+	- Test Levels
+		- Groups of test ac
