@@ -46,22 +46,6 @@
 					- 再對剩餘的999個房間進行 Iteration 裝潢, 先油漆, 安裝燈光, 再擺放家具
 			- 同樣的 Task, 少量及大量會採取不同方法進行開發, 所以最好要混合 Incremental & Iterative 開發方式來做
 			-
-	- Testing Types
-	  collapsed:: true
-		- Dynamic Testing
-			- executing the software
-		- Static Testing
-			- review requirements, design, user manuals
-			- coding review --> white box testing
-			- Early testing save time and money
-		- Functional Testing
-			- Testing what the system does
-			- Usually answered with Yes/No
-		- Non-functional Testing
-			- Testing how the system performs
-			- Hard to answer with Yes/No
-			- Usually measured as a range
-			-
 	- Validation & Verification
 	  collapsed:: true
 		- ![image.png](../assets/image_1715309692813_0.png)
@@ -99,3 +83,20 @@
 		- Acceptance --> User or Stake holder
 			- Alpha testing: Test in developer's environment
 			- Beta testing: Test in user's environment
+	- Testing Types
+		- Dynamic Testing
+			- executing the software
+		- Static Testing
+			- review requirements, design, user manuals
+			- coding review --> white box testing
+			- Early testing save time and money
+		- Functional Testing
+			- Testing what the system does
+			- Usually answered with Yes/No
+		- Non-functional Testing
+			- Testing how the system performs
+			- Hard to answer with Yes/No
+			- Usually measured as a range
+		- Black -Box Testing
+			- Testing without knowi
+			-
