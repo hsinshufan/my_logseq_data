@@ -96,5 +96,5 @@
 		- System Testing --> Tester
 			- ![image.png](../assets/image_1715312302820_0.png){:height 291, :width 689}
 		- Acceptance --> User or Stake holder
-			- Alpha version: Test in developer's enviroment
-			- Beta version: Test in user's enviroment
+			- Alpha testing: Test in developer's enviroment
+			- Beta testing: Test in user's enviroment
