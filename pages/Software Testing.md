@@ -48,6 +48,7 @@
 - Testing Types
 	- Dynamic Testing
 	- Static Testing
+		- review
 	- Functional Testing
 		- Testing what the system does
 		- Usually answered with Yes/No
