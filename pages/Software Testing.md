@@ -62,4 +62,4 @@
 		- Usually measured as a range
 		-
 - Validation & Verification
-	-
+	- ![image.png](../assets/image_1715309692813_0.png)
