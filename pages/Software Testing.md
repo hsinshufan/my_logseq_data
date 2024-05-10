@@ -71,5 +71,4 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1715310148716_0.png)
 	- Testing & Debugging
-	  collapsed:: true
 		- ![image.png](../assets/image_1715310490590_0.png)
