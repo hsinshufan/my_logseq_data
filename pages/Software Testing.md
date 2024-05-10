@@ -58,6 +58,7 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1715310490590_0.png)
 	- Test process
+	  collapsed:: true
 		- Plan --> Design --> Execution
 			- ![image.png](../assets/image_1715310843676_0.png)
 		- Test process Activities
@@ -114,3 +115,6 @@
 		- Smoke Testing
 			- Testing main functionalities to ensure that the build is stable enough to continue testing
 			- ![image.png](../assets/image_1715312910420_0.png)
+	- [[Test Scenario]]
+		- A TEST SCENARIO is defined as any functionality that can test tested
+		- Test
