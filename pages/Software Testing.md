@@ -94,5 +94,7 @@
 			- Component Integration --> Developer
 			- System Integration --> Tester
 		- System Testing --> Tester
+			- ![image.png](../assets/image_1715312302820_0.png){:height 291, :width 689}
 		- Acceptance --> User or Stake holder
-			- Alpha version: Test
+			- Alpha version: Test in developer's enviroment
+			- Beta version: Test in user's enviroment
