@@ -74,6 +74,6 @@
 		- ![image.png](../assets/image_1715310490590_0.png)
 	- Test process
 		- Plan --> Design --> Execution
-		  collapsed:: true
 			- ![image.png](../assets/image_1715310843676_0.png)
-		- Test pr
+		- Test process Activities
+			- ![image.png](../assets/image_1715310890202_0.png)
