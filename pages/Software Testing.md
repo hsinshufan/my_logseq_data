@@ -63,6 +63,9 @@
 			- Usually measured as a range
 			-
 	- Validation & Verification
+	  collapsed:: true
 		- ![image.png](../assets/image_1715309692813_0.png)
 		- ![image.png](../assets/image_1715309743408_0.png)
 		- ![image.png](../assets/image_1715309791866_0.png)
+	- Objectives of Testing
+		-
