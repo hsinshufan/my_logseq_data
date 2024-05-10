@@ -46,6 +46,8 @@
 		- 同樣的 Task, 少量及大量會採取不同方法進行開發, 所以最好要混合 Incremental & Iterative 開發方式來做
 		-
 - Testing Types
+	- Dynamic Testing
+	- Static Testing
 	- Functional Testing
 		- Testing what the system does
 		- Usually answered with Yes/No
