@@ -76,4 +76,5 @@
 		- Plan --> Design --> Execution
 			- ![image.png](../assets/image_1715310843676_0.png)
 		- Test process Activities
+			- Test progress report
 			- ![image.png](../assets/image_1715310890202_0.png)
