@@ -90,4 +90,6 @@
 		- Unit (Component) Testing --> Developer
 			- components are separately testable
 		- Integration Testing
-			- Interactions
+			- Interactions between components
+			- Component Integration --> Developer
+			- System Integration --> Tester
