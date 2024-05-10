@@ -124,4 +124,5 @@
 			- Software Requirement Specification, SRS
 			- Functional Requirement Specification, FRS
 		- Analyze and frame possible system abuse scenarios
-		- Enumerate test scenarios that
+		- Enumerate test scenarios that cover every possible feature of the software
+		- Create a Traceability Matrix to ensure that every requirement is mapped to a test scenario
