@@ -119,7 +119,7 @@
 		- A TEST SCENARIO is defined as any functionality that can test tested
 		- Test Condition or Test Possibility
 		- Figure out real-world scenarios and use cases from end user's point view
-		- Study Requirement documents
+		- Study Requirement documents pertaining to System Under Test (SUT)
 			- Business Requirement Specification, BRS
 			- Software Requirement Specification, SRS
 			- Functional Requirement Specification, FRS
