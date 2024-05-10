@@ -84,21 +84,27 @@
 			- Alpha testing: Test in developer's environment
 			- Beta testing: Test in user's environment
 	- Testing Types
-		- Dynamic Testing
-			- executing the software
-		- Static Testing
-			- review requirements, design, user manuals
-			- coding review --> white box testing
-			- Early testing save time and money
 		- Functional Testing
+		  collapsed:: true
 			- Testing what the system does
 			- Usually answered with Yes/No
 		- Non-functional Testing
+		  collapsed:: true
 			- Testing how the system performs
 			- Hard to answer with Yes/No
 			- Usually measured as a range
 		- Black -Box Testing
+		  collapsed:: true
 			- Testing without knowing the internal structure of the system
 		- White-Box Testing
+		  collapsed:: true
 			- Testing while monitoring the internal structure of the system
-			-
+		- Dynamic Testing
+		  collapsed:: true
+			- executing the software
+		- Static Testing
+		  collapsed:: true
+			- review requirements, design, user manuals
+			- coding review --> white box testing
+			- Early testing save time and money
+		- Retesting (Co)
