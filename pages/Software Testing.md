@@ -47,6 +47,7 @@
 		-
 - Testing Types
 	- Dynamic Testing
+		-
 	- Static Testing
 		- review requirements, design, user manuals
 		- coding review --> white box testing
