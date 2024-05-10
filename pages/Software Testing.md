@@ -88,4 +88,6 @@
 		- Related to other activities within the software development lifecycle
 		- ![image.png](../assets/image_1715311933234_0.png)
 		- Unit (Component) Testing --> Developer
-			-
+			- components are separately testable
+		- Integration Testing
+			- Interactions
