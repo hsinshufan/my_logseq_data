@@ -73,4 +73,7 @@
 	- Testing & Debugging
 		- ![image.png](../assets/image_1715310490590_0.png)
 	- Test process
-		-
+		- Plan --> Design --> Execution
+		  collapsed:: true
+			- ![image.png](../assets/image_1715310843676_0.png)
+		- Test pr
