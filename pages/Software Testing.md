@@ -49,8 +49,8 @@
 	- Dynamic Testing
 	- Static Testing
 		- review requirements, design, user manuals
-		- coding review
-		-
+		- coding review --> white box testing
+		- Early testing save time and money
 	- Functional Testing
 		- Testing what the system does
 		- Usually answered with Yes/No
