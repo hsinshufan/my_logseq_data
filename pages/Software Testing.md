@@ -117,4 +117,5 @@
 			- ![image.png](../assets/image_1715312910420_0.png)
 	- [[Test Scenario]]
 		- A TEST SCENARIO is defined as any functionality that can test tested
-		- Test
+		- Test Condition or Test Possibility
+		- real-world s
