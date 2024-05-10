@@ -67,7 +67,6 @@
 				- Identify what are we going to test
 			- ![image.png](../assets/image_1715310890202_0.png)
 	- Test Levels
-	  collapsed:: true
 		- Groups of test activities that are organized and managed together
 		- Each test level is an instance of the test process
 		- Related to other activities within the software development lifecycle
