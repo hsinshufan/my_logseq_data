@@ -1,6 +1,5 @@
 - The Complete 2024 Software Testing Bootcamp(https://www.udemy.com/course/testerbootcamp/)
 	- Software Development
-	  collapsed:: true
 		- V-Model
 		  collapsed:: true
 			- ![image.png](../assets/image_1715146620863_0.png)
@@ -24,7 +23,6 @@
 		- Agile Software Development
 			- ![image.png](../assets/image_1715147870504_0.png)
 		- Incremental Development
-		  collapsed:: true
 			- Build one part and deliver build another part and integrate previous parts
 			- ![image.png](../assets/image_1715138633972_0.png)
 			-
@@ -127,4 +125,4 @@
 		- Enumerate test scenarios that cover every possible feature of the software
 		- Create a Traceability Matrix to ensure that every requirement is mapped to a test scenario
 		- Facebook Valid Sign Up Test
-			- ![image.png](../assets/image_1715334059530_0.png)
+			- ![image.png](../assets/image_1715334119722_0.png)
